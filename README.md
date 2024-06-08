@@ -15,7 +15,7 @@ Veja o projeto <a href="https://appenviaremail.netlify.app/"> de envio de E-mail
 
 🛠️ <b>Explicação do projeto:</b>
 
-Este projeto fornece uma interface de usuário simples para enviar e-mails. Utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade. A integração com EmailJS permite enviar e-mails de forma segura e eficiente diretamente do navegador.<br>
+Este projeto fornece uma interface de usuário simples para enviar e-mails. Utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade. A integração com EmailJS permite enviar e-mails de forma segura e eficiente diretamente do navegador.<br><br>
 
 🛠️ <b>Pré-requisitos</b>
 
@@ -54,7 +54,7 @@ cd app-enviar-email
 Você pode abri-lo no VS Code digitando "code ."
 ```
 
-👨🏼‍💻 <b>Usando o projeto:</b>
+<br>👨🏼‍💻 <b>Usando o projeto:</b>
 
 - Você pode abrir o arquivo index.html diretamente no seu navegador.
 
