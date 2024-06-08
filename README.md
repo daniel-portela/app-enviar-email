@@ -5,27 +5,25 @@ Veja o projeto <a href="https://appenviaremail.netlify.app/"> de envio de E-mail
 <p>Este projeto consiste em um formulário de envio de e-mails utilizando HTML, CSS e JavaScript com integração ao EmailJS para facilitar o envio de e-mails diretamente do cliente.</p>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/app-enviar-email/assets/110783805/aa4eb8eb-4536-4818-bdd1-6d207962096f)
 
 👨🏼‍💻 <b>Tecnologias Utilizadas:</b>
 
-
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
-<br>
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;<hr>
 
 🛠️ <b>Explicação do projeto:</b>
 
-Este projeto fornece uma interface de usuário simples para enviar e-mails. Utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade. A integração com EmailJS permite enviar e-mails de forma segura e eficiente diretamente do navegador.<br><br>
+Este projeto fornece uma interface de usuário simples para enviar e-mails. Utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade. A integração com EmailJS permite enviar e-mails de forma segura e eficiente diretamente do navegador.<br>
 
 🛠️ <b>Pré-requisitos</b>
 
-Conta no EmailJS.
+- Conta no EmailJS.
 
-Serviço e template configurados no painel do EmailJS.
+- Serviço e template configurados no painel do EmailJS.
 
-Chave pública do EmailJS.
+- Chave pública do EmailJS.<br><br>
 
 ⚙️ <b>Executando o projeto:</b>
 
@@ -76,10 +74,9 @@ Você pode abri-lo no VS Code digitando "code ."
 
 - Funcionalidade: Para adicionar novas funcionalidades, edite o arquivo assets/js/scripts.js.<br><br>
 
-
 ⚙️ <b>Manutenção do código:</b>
 
-Compromisso com a melhoria contínua do projeto, incluindo atualizações regulares de conteúdo e refinamento do design conforme necessário.
+Compromisso com a melhoria contínua do projeto, incluindo atualizações regulares de conteúdo e refinamento do design conforme necessário.<br><br>
 
 ✉️ <b>Contato:</b>
 
